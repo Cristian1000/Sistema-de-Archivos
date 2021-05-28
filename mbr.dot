@@ -1,0 +1,15 @@
+
+digraph {
+
+  tbl [
+
+    shape=plaintext
+    label=<
+          <table color='black' cellspacing='0'>
+            <tr><td>one  </td><td>two  </td><td>three</td></tr>
+            <tr><td>four </td><td>five </td><td>six  </td></tr>
+            <tr><td>seven</td><td>eight</td><td>nine </td></tr>
+          </table>
+    >];
+
+}
